@@ -1,0 +1,128 @@
+<div class="all2">
+        <div class="form48">
+            <div class="div4n8">
+                <h1 id="jfs">
+                    <b>JavaScript Full Stack Web <br />
+                        Development Immersive</b>
+                </h1>
+                <br />
+                <p id="explore">
+                    Explore the fastest, most effective way to instantly grow your
+                    skills, transform <br />
+                    yourself and get ready to be hired as a highly-paid web developer.
+                </p>
+
+                <div class="div8">
+                    <h2>Enrollment Details</h2>
+                    <div class="div4">
+                        <div class="div5">
+                            <i id="lcd" class="fas fa-map-marker-alt"></i>
+                            <!-- <img id="location" src="./img/location.svg" alt="" width="20px" height="20px" /> -->
+                            <p class="lsd">Location</p>
+                            <p id="palmgroove">Palmgroove, Lagos</p>
+                        </div>
+
+                        <div class="div5">
+                            <i id="lcd" class="far fa-calendar-alt"></i>
+                            <!-- <img id="calendar2" src="./img/calendar2.svg" alt="" width="20px" height="20px" /> -->
+                            <p class="lsd">Start Date</p>
+                            <p id="date">12 / 02 / 2022</p>
+                        </div>
+
+                        <div class="div5">
+                            <i id="lcd" class="far fa-clock"></i>
+                            <!-- <img id="duration" src="./img/duration.svg" alt="" width="20px" height="20px" /> -->
+                            <p class="lsd">Duration</p>
+                            <p id="weeks">16 Weeks</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="topform">
+                <h4 id="registerlearn">
+                    Register to learn more about the program <br />
+                    pricing and curriculum
+                </h4>
+                <form class="topform1">
+                    <div class="firstlast">
+                        <input type="text" name="First Name" id="First Name" placeholder="First Name" />
+                        <input type="text" placeholder="Last Name" />
+                    </div>
+                    <input id="email1" type="email" placeholder="Email" />
+                    <input class="phone2" type="tel" placeholder="Phone Number" />
+                    <button type="button" class="btn btn-primary btn-md">
+                        Get Program Package
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- SECOND SECTION STARTS -->
+    <div class="secondsection">
+        <div class="avatar">
+            <img id="joseph" src="./img/joseph_avatar.jpg" alt="" width="120px" />
+            <img id="peter" src="./img/peter_avatar.jpg" alt="" width="120px" />
+        </div>
+        <div class="avatartext">
+            <p>
+                I came into Tech Studio Academy with practically no prior
+                knowledge in software development. However, within a few
+                weeks, I was able to grasp the crux of software development and
+                also master the soft skills required for being a software developer.
+                <br />
+                <br />
+                So far so good, the skills acquired have given me a mind-blowing
+                <br />
+                push in my career as a software developer.
+            </p>
+            <p>
+                Tech Studio Academy has been one of the big push I needed to get
+                <br />
+                in the real world space. I had an immense learning that was really
+                <br />
+                different from the self learning I started with. The learning was
+                <br />
+                fun and there were some internship job opportunities that were
+                presented to us. I got my first gig immediately after the program.
+                <br />
+                <br />
+                Thank you Tech Studio for that push I needed.
+            </p>
+        </div>
+
+        <div class="avatarpara">
+            <p id="para1">
+                <b>JOSEPH DARAMOLA</b> (FRONTEND DEVELOPER) <br />
+                - <span style="color: rgb(150, 20, 20)"> <b>FRIYAY.IO</b></span>
+            </p>
+            <p id="para2">
+                <b>PETER EDEAWE</b> (SOFTWARE DEVELOPER) <br />
+                -
+                <span style="color: rgb(150, 20, 20)"> <b>BREATHEAGENCY.COM</b></span>
+            </p>
+        </div>
+
+        <div class="rilwanavatar">
+            <img id="rilwan" src="./img/rilwan_avatar.jpeg" alt="" width="120px" />
+            <p id="para3">
+                I bless the day the Instagram algorithm pop up Tech Studio <br />
+                Academy to my news feed. I read through their curriculum and <br />
+                other details about the Bootcamp and I told myself this is the <br />
+                opportunity I've been waiting for. <br />
+                <br />
+                I wasn't disappointed, the environment was well ventilated and <br />
+                conducive, with competent instructors. Here I am today at OT&T <br />
+                Consulting, fulfilling my dreams thanks to Tech Studio Academy.
+            </p>
+            <p id="para4">
+                <b>RILWAN AJIBOLA</b> (SOFTWARE DEVELOPER) <br />
+                -
+                <span style="color: rgb(150, 20, 20)">
+                    <b>OTANDTCONSULTING.COM</b></span>
+            </p>
+        </div>
+    </div>
+    <!-- SECOND SECTION ENDS -->

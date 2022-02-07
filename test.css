@@ -1,0 +1,463 @@
+.div4{
+    background-image: url(./img/bg.jpg);
+    color: white;
+}
+
+
+/* FULL SCREEN OR DESKTOP CSS */
+
+/* HEADER STARTS HERE */
+
+.div1{
+    /* display: flex;
+    justify-content: space-between; */
+    background-color: whitesmoke;
+}
+.div2{
+    /* padding-left: 15px; */
+}
+.div4{
+    background-image: url(./img/bg.jpg);
+    color: white;
+}
+.all{
+    /* display: flex;
+    justify-content: space-between; */
+    /* padding-left: 100px;
+    padding-top: 15px; */
+}
+.div3{
+    /* padding-right: 70px;
+    padding-top: 15px; */
+}
+.div3:hover{
+    text-decoration: ;
+}
+
+
+/* SECTION ONE STARTS HERE */
+
+.div4n8{
+    padding-left: 100px;
+}
+.topform{
+    background-color: white;
+    padding-right: 50px;
+    padding-top: 50px;
+    margin-top: 50px;
+    height: 400px;
+}
+.div4{
+    width: auto;
+}
+.div5{
+    display: flex;
+}
+.div8{
+    padding-top: 30px;
+    color: white;
+}
+#jfs{
+    /* padding-top: 50px; */
+    color: white;
+}
+#lcd{
+    /* padding-top: 5px; */
+}
+#explore{
+    /* margin-top: 0px; */
+    color: whitesmoke;
+}
+#palmgroove{
+    /* padding-left: 300px; */
+}
+#date{
+    /* padding-left: 320px; */
+}
+#weeks{
+    /* padding-left: 360px; */
+}
+#registerlearn{
+    /* padding-left: 30px;
+    padding-bottom: 10px; */
+}
+#email1{
+    /* height: 50px;
+    margin-bottom: 20px */
+}
+.phone2{
+    height: 50px;
+}
+.lsd{
+    padding-left: 10px;
+}
+.topform1{
+    padding-left: 30px;
+    display: grid;
+}
+.firstlast{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.form48{
+    /* display: flex;
+    justify-content: space-between; */
+    padding-right: 100px;
+}
+.all2{
+    background-image: url(./img/bg.jpg);
+    /* height: 600px; */
+}
+.btn.btn-primary.btn-md{
+    margin-top: 8px;
+    height: 50px;
+}
+
+/* SECOND SECTION STARTS HERE */
+.secondsection{
+    background-color: cadetblue;
+    height: 900px;
+}
+.avatar{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.avatartext{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 600;
+    font-size: large;
+    padding-top: 20px;
+    text-align: center;
+}
+.avatarpara{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.rilwanavatar{
+    text-align: center;
+}
+#joseph{
+    border-radius: 100px;
+}
+#peter{
+    border-radius: 100px;
+}
+#rilwan{
+    border-radius: 100px;
+}
+#para3{
+    font-weight: 600;
+    font-size: large;
+    padding-top: 8px;
+}
+#para4{
+    padding-top: 20px;
+}
+
+/* THIRD SECTION CSS STARTS */
+.thirdsection{
+    background-color: wheat;
+    height: 450px;
+}
+.cbs{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.div11{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-weight: 200;
+    font-size: large;
+    padding-top: 15px;
+    
+}
+#cal{
+    padding-right: 120px;
+}
+#board{
+    margin-right: 70px;
+}
+#suitcase{
+    margin-left: 50px;
+}
+
+/* FOURTH SECTION STARTS */
+.section4{
+    background-color: rgb(209, 219, 189);
+}
+.div12{
+    text-align: center;
+}
+.div13{
+    display: flex;
+    justify-content: space-between;
+}
+.div13 p{
+    padding-left: 100px;
+}
+.all4{
+    padding-top: 60px;
+}
+#group{
+    padding-right: 100px;
+}
+
+/* SECTION FIVE STARTS */
+.div14{
+    text-align: center;
+    padding-top: 50px;
+}
+.div15{
+    padding-left: 100px;
+}
+.div16{
+    padding-right: 100px;
+}
+.div17{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 80px;
+}
+.div18{
+    background-color: rgb(238, 196, 238);
+    height: 1550px;
+}
+
+/* SECTION SIX STARTS */
+.section6{
+    background-color: rgb(248, 244, 244);
+    height: 1000px;
+}
+.div19{
+    text-align: center;
+    padding-top: 50px;
+}
+.div20{
+    display: inline-flex;
+}
+.div21{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px rgb(216, 206, 206);
+    height: 470px;
+    width: 470px;
+    z-index: 100px;
+    position: relative;
+    top: 110px;
+    right: 200px;
+}
+.div22{
+    /* font-weight: 400; */
+    margin: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+#studio{
+    padding-left: 100px;
+}
+
+/* SECTION SEVEN STARTS */
+.section7{
+    background-color: rgb(206, 231, 229);
+    height: 1350px;
+}
+.div24{
+    padding-left: 70px;
+}
+.div25{
+    display: flex;
+    /* justify-content: space-around; */
+    padding-top: 30px;
+}
+.div26{
+    text-align: center;
+}
+.div27{
+    text-align: center;
+}
+.div28{
+    display: flex;
+    /* justify-content: space-around; */
+}
+.div29{
+    padding-top: 40px;
+}
+.div30{
+    padding-top: 45px;
+    padding-left: 70px;
+}
+#smile{
+    padding-left: 100px;
+}
+#studentspic{
+    padding-left: 100px;
+}
+/* #listspan{
+    float: left;
+} */
+
+/* SECTION EIGHT STARTS */
+.section8{
+    background-color: rgb(235, 228, 228);
+    height: 250px;
+}
+
+.div32{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+}
+.div33{
+    background-color: #007bff;
+    width: 750px;
+    height: 140px;
+    border-radius: 0.5rem;
+}
+.movecolor{
+    /* padding: 80px; */
+    padding-top: 80px;
+    padding-left: 400px;
+}
+
+/* SECTION NINE STARTS */
+
+.section9{
+    background-color: rgb(238, 220, 229);
+}
+
+.div35{
+    text-align: center;
+    padding-top: 50px;
+}
+.div36{
+    padding-left: 100px;
+}
+.div37{
+    padding-left: 100px;
+}
+.div38{
+    display: flex;
+    padding-top: 70px;
+}
+
+/* SECTION TEN STARTS */
+
+.section10{
+    background-color: #007bff;
+    height: 870px;
+}
+.btn.btn-primary.bt1n-md{
+    width: 350px;
+    margin-left: 30px;
+}
+.div40{
+    padding-left: 80px;
+    padding-top: 30px;
+}
+.div41{
+    color: white;
+    font-weight: 300;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.div42{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.div43{
+    background-color: #e63131;
+    height: 700px;
+    width: 400px;
+    margin-right: 200px;
+}
+.div44{
+    background-color: whitesmoke;
+    height: 700px;
+    width: 600px;
+    margin-left: 100px;
+}
+
+/* SECTION ELEVEN STARTS */
+
+.section11{
+    background-color: rgb(2, 2, 15);
+    height: 250px;
+}
+
+.div46{
+    display: flex;
+}
+.div47{
+    margin-left: 60px;
+}
+.div48{
+    padding-right: 80px;
+}
+.div49{
+    padding-right: 300px;
+}
+.div50{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+#tsa{
+    padding-top: 6px;
+    padding-left: 5px;
+}
+#ogunlesi{
+    padding-left: 12px;
+}
+#eyea{
+    width: 550px;
+    height: 50px;
+    border-radius: 0.3rem;
+    border: 0px solid;
+}
+#submitfooter{
+    width: 550px;
+    height: 50px;
+    border-radius: 0rem;
+}
+.whatsappicon{
+    position: fixed;
+    width: 45px;
+    margin-left: 1450px;
+    bottom: 40px;
+    right: 15px;
+    /* background-color: #25d366; */
+    /* color: #FFF; */
+    /* border-radius: 50px; */
+    text-align: center;
+    font-size: 30px;
+    /* box-shadow: 2px 2px 3px #999; */
+    z-index: 100;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+.whats-app {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 15px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    /* z-index: 100; */
+}
+.div51{
+    padding-left: 50px;
+}

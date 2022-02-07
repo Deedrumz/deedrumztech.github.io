@@ -1,0 +1,1333 @@
+/* HEADER STARTS HERE */
+
+.div1{
+    /* display: flex;
+    justify-content: space-between; */
+    background-color: whitesmoke;
+}
+.div2{
+    /* padding-left: 15px; */
+}
+.all{
+    /* display: flex;
+    justify-content: space-between; */
+    /* padding-left: 100px;
+    padding-top: 15px; */
+}
+.div3{
+    /* padding-right: 70px;
+    padding-top: 15px; */
+}
+
+
+/* SECTION ONE STARTS HERE */
+
+.div4n8{
+    padding-left: 100px;
+}
+.topform{
+    background-color: white;
+    /* padding-right: 50px;
+    padding-top: 50px;
+    margin-top: 50px; */
+    height: 400px;
+}
+.div4{
+    background-image: url(./img/bg.jpg);
+    width: auto;
+}
+.div5{
+    display: flex;
+}
+.div8{
+    padding-top: 30px;
+    color: white;
+}
+#jfs{
+    /* padding-top: 50px; */
+    color: white;
+}
+#lcd{
+    /* padding-top: 5px; */
+}
+#explore{
+    /* margin-top: 0px; */
+    color: whitesmoke;
+}
+#palmgroove{
+    /* padding-left: 300px; */
+}
+#date{
+    /* padding-left: 320px; */
+}
+#weeks{
+    /* padding-left: 360px; */
+}
+#registerlearn{
+    /* padding-left: 30px;
+    padding-bottom: 10px; */
+}
+#email1{
+    /* height: 50px;
+    margin-bottom: 20px */
+}
+#phone2{
+    /* height: 50px; */
+}
+.lsd{
+    padding-left: 10px;
+}
+.topform1{
+    padding-left: 30px;
+    display: grid;
+}
+.firstlast{
+    /* display: flex;
+    justify-content: space-between; */
+    /* height: 50px;
+    margin-bottom: 20px; */
+}
+
+.form48{
+    /* display: flex;
+    justify-content: space-between; */
+    padding-right: 100px;
+}
+.all2{
+    background-image: url(./img/bg.jpg);
+    /* height: 600px; */
+}
+.btn.btn-primary.btn-md{
+    margin-top: 8px;
+    height: 50px;
+}
+
+/* SECOND SECTION STARTS HERE */
+.secondsection{
+    /* background-color: cadetblue;
+    height: 900px; */
+}
+.avatar{
+    /* display: flex;
+    justify-content: space-around;
+    padding-top: 40px; */
+}
+/* .avatartext{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 600;
+    font-size: large;
+    padding-top: 20px;
+    text-align: center;
+} */
+.avatarpara{
+    /* display: flex;
+    justify-content: space-around;
+    text-align: center; */
+}
+.rilwanavatar{
+    /* text-align: center; */
+}
+/* #joseph{
+    border-radius: 100px;
+}
+#peter{
+    border-radius: 100px;
+}
+#rilwan{
+    border-radius: 100px;
+} */
+#para3{
+    font-weight: 600;
+    font-size: large;
+    padding-top: 8px;
+}
+#para4{
+    padding-top: 20px;
+}
+
+/* THIRD SECTION CSS STARTS */
+.thirdsection{
+    /* background-color: wheat;
+    height: 450px; */
+}
+.cbs{
+    /* display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px; */
+}
+.div11{
+    /* display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-weight: 200;
+    font-size: large;
+    padding-top: 15px; */
+    
+}
+/* #cal{
+    padding-right: 120px;
+}
+#board{
+    margin-right: 70px;
+}
+#suitcase{
+    margin-left: 50px;
+} */
+
+/* FOURTH SECTION STARTS */
+.section4{
+    background-color: rgb(209, 219, 189);
+}
+.div12{
+    /* text-align: center; */
+}
+.div13{
+    /* display: flex;
+    justify-content: space-between; */
+}
+.div13 p{
+    /* padding-left: 100px; */
+}
+.all4{
+    /* padding-top: 60px; */
+}
+#group{
+    /* padding-right: 100px; */
+}
+
+/* SECTION FIVE STARTS */
+/* .div14{
+    text-align: center;
+    padding-top: 50px;
+} */
+.div15{
+    /* padding-left: 100px; */
+}
+.div16{
+    /* padding-right: 100px; */
+}
+.div17{
+    /* display: flex;
+    justify-content: space-between;
+    padding-top: 80px; */
+}
+.div18{
+    background-color: rgb(238, 196, 238);
+    height: 1550px;
+}
+
+/* SECTION SIX STARTS */
+.section6{
+    /* background-color: rgb(248, 244, 244);
+    height: 1000px; */
+}
+.div19{
+    /* text-align: center;
+    padding-top: 50px; */
+}
+.div20{
+    /* display: inline-flex; */
+}
+.div21{
+    /* background-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px rgb(216, 206, 206);
+    height: 470px;
+    width: 470px;
+    z-index: 100px;
+    position: relative;
+    top: 110px;
+    right: 200px; */
+}
+.div22{
+    /* font-weight: 400; */
+    /* margin: 20px;
+    padding-left: 20px;
+    padding-top: 30px; */
+}
+#studio{
+    /* padding-left: 100px; */
+}
+
+/* SECTION SEVEN STARTS */
+.section7{
+    /* background-color: rgb(206, 231, 229);
+    height: 1350px; */
+}
+.div24{
+    /* padding-left: 70px; */
+}
+.div25{
+    /* display: flex;
+    padding-top: 30px; */
+}
+.div26{
+    /* text-align: center; */
+}
+.div27{
+    /* text-align: center; */
+}
+.div28{
+    /* display: flex; */
+}
+.div29{
+    /* padding-top: 40px; */
+}
+.div30{
+    /* padding-top: 45px;
+    padding-left: 70px; */
+}
+#smile{
+    /* padding-left: 100px; */
+}
+#studentspic{
+    /* padding-left: 100px; */
+}
+/* #listspan{
+    float: left;
+} */
+
+/* SECTION EIGHT STARTS */
+.section8{
+    /* background-color: rgb(235, 228, 228);
+    height: 250px; */
+}
+
+.div32{
+    /* display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px; */
+}
+.div33{
+    /* background-color: #007bff;
+    width: 750px;
+    height: 140px;
+    border-radius: 0.5rem; */
+}
+.movecolor{
+    /* padding-top: 80px;
+    padding-left: 400px; */
+}
+
+/* SECTION NINE STARTS */
+
+.section9{
+    /* background-color: rgb(238, 220, 229); */
+}
+
+.div35{
+    /* text-align: center;
+    padding-top: 50px; */
+}
+.div36{
+    /* padding-left: 100px; */
+}
+.div37{
+    /* padding-left: 100px; */
+}
+.div38{
+    /* display: flex;
+    padding-top: 70px; */
+}
+
+/* SECTION TEN STARTS */
+
+.section10{
+    background-color: #007bff;
+    height: 870px;
+}
+.btn.btn-primary.bt1n-md{
+    /* width: 350px;
+    margin-left: 30px; */
+}
+.div40{
+    /* padding-left: 80px;
+    padding-top: 30px; */
+}
+.div41{
+    /* color: white;
+    font-weight: 300;
+    padding-left: 100px;
+    padding-top: 30px; */
+}
+.div42{
+    /* display: flex;
+    justify-content: space-around;
+    padding-top: 100px; */
+}
+.div43{
+    /* background-color: #e63131;
+    height: 700px;
+    width: 400px;
+    margin-right: 200px; */
+}
+.div44{
+    /* background-color: whitesmoke;
+    height: 700px;
+    width: 600px;
+    margin-left: 100px; */
+}
+
+/* SECTION ELEVEN STARTS */
+
+.section11{
+    /* background-color: rgb(2, 2, 15);
+    height: 250px; */
+}
+
+.div46{
+    /* display: flex; */
+}
+.div47{
+    /* margin-left: 60px; */
+}
+.div48{
+    /* padding-right: 80px; */
+}
+.div49{
+    /* padding-right: 300px; */
+}
+.div50{
+    /* display: flex;
+    justify-content: space-between;
+    padding-top: 50px; */
+}
+#tsa{
+    /* padding-top: 6px;
+    padding-left: 5px; */
+}
+#ogunlesi{
+    /* padding-left: 12px; */
+}
+#eyea{
+    /* width: 550px;
+    height: 50px;
+    border-radius: 0.3rem;
+    border: 0px solid; */
+}
+#submitfooter{
+    /* width: 550px;
+    height: 50px;
+    border-radius: 0rem; */
+}
+.whatsappicon{
+    position: fixed;
+    width: 45px;
+    margin-left: 1450px;
+    bottom: 40px;
+    right: 15px;
+    /* background-color: #25d366; */
+    /* color: #FFF; */
+    /* border-radius: 50px; */
+    text-align: center;
+    font-size: 30px;
+    /* box-shadow: 2px 2px 3px #999; */
+    z-index: 100;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+.whats-app {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 15px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    /* z-index: 100; */
+}
+.div51{
+    padding-left: 50px;
+}
+
+
+
+/* MOBILE QUERY STARTS HERE */
+
+@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+
+        body{
+            background-color: violet;
+        }
+        .all{
+            display: flex;
+        }
+        .div1{
+            height: 50px;
+        }
+        .div2{
+            font-size: 15px;
+        }
+        .div3{
+            visibility: hidden;
+        }
+        .div4{
+            background-image: url(./img/bg.jpg);
+            width: auto;
+        }
+        .java16{
+            padding: 20px;
+        }
+        #jfs{
+            color: white;
+            width: 70%;
+        }
+        #explore{
+            color: whitesmoke;
+            width: 95%;
+        }
+        #palmgroove{
+            padding-left: 40px;
+        }
+        #date{
+            padding-left: 60px;
+        }
+        #weeks{
+            padding-left: 95px;
+        }
+        #lcd{
+            padding-top: 5px;
+        }
+        .div8 h2{
+            font-size: 1.3em;
+        }
+        /* FORM STARTS HERE FOR 320PX*/
+        .topform{
+                background-color: white;
+                width: auto;
+                height: 450px;
+                margin-left: 1em;
+                margin-right: 1em;
+        }
+        .topform1{
+                display: grid;
+        }
+        .movetopform{
+            padding-bottom: 20px;
+        }
+        .firstlast{
+            display: grid;
+        }
+        .textnform{
+            padding-right: 30px;
+        }
+        #registerlearn{
+            width: auto;
+            padding-left: 30px;
+            padding-top: 30px; 
+            font-weight: 500; 
+        }
+        #firstname{
+            width: auto;
+            height: 50px;
+            border-radius: 3px;
+            margin-bottom: 10px;
+        }
+        #lastname{
+            width: auto;
+            height: 50px;
+            border-radius: 3px;
+            margin-bottom: 10px;
+        }
+        #email1{
+            width: auto;
+            height: 50px;
+            border-radius: 3px;
+            margin-bottom: 10px;
+        }
+        #phone2{
+            width: auto;
+            height: 50px;
+            border-radius: 3px;
+            margin-bottom: 20px;
+        }
+
+        /* SECOND SECTION STARTS */
+        .secondsection{
+            background-color: cadetblue;
+            height: auto;
+        }
+
+        .avatar{
+            display: grid;
+            text-align: center;
+            padding-top: 20px;
+           
+        }
+        .avatartext{
+            display: grid;
+        }
+        #joseph{
+            border-radius: 100px;
+            /* margin-left: 100px; */
+            margin-bottom: 20px;
+        }
+        #peterlomo1{
+            border-radius: 100px;
+            /* margin-left: 100px; */
+            margin-bottom: 20px;
+        }
+        #rilwan{
+            border-radius: 100px;
+            /* margin-left: 100px; */
+            margin-bottom: 20px;
+        }
+        .section2{
+            padding: 8px;
+        }
+
+
+        /* SECTION THREE STARTS */
+        .thirdsection{
+            background-color: wheat;
+            height: auto;
+        }
+        .cbs{
+            display: grid;
+            padding-top: 20px;
+        }
+        .section3{
+            margin: auto;
+            text-align: center;
+            width: 95%;
+        }
+        #cal{
+            padding-bottom: 15px;
+        }
+        #board{
+            padding-bottom: 15px;
+            padding-top: 15px;
+        }
+        #suitcase{
+            padding-bottom: 15px;
+            padding-top: 15px;
+        }
+
+        /* SECTION FOUR STARTS */
+
+        .section4{
+            background-color: rgb(209, 219, 189);
+            height: auto;
+        }
+        .div12{
+            text-align: center;
+            padding-top: 20px;
+        }
+        .div13{
+            text-align: left;
+            width: 95%;
+            margin: auto;
+        }
+        .btn.btn-primary.btn-md{
+            width: 95%;
+        }
+        #group{
+            width: 95%;
+            height: 95%;
+            padding-bottom: 50px;
+        }
+
+        /* SECTION FIVE STARTS */
+        .div14{
+            text-align: center;
+            padding-top: 50px;
+        }
+        .div14 p{
+            width: 40%;
+            text-align: center;
+            /* line-height: 25px; */
+            margin: auto;
+            padding-bottom: 30px;
+        }
+        .div17{
+            margin: auto;
+            width: 95%;
+            margin-top: 80px;
+            /* padding-bottom: 50px; */
+        }
+        .div18{
+            background-color: rgb(238, 196, 238);
+            height: auto;
+        }
+        #students5{
+            width: 95%;
+            height: 95%;
+        }
+        #reg5{
+            margin: 0.5em;
+            /* padding-bottom: 40px; */
+        }
+        #movebutton5{
+            padding-bottom: 30px;
+            margin-left: 0.5em;
+        }
+
+        /* SECTION SIX STARTS */
+
+        .section6{
+            background-color: rgb(248, 244, 244);
+            height: auto;
+        }
+        .div19{
+            width: 80%;
+            text-align: center;
+            padding-top: 50px;
+            padding-left: 30px;
+        }
+        .div21{
+            background-color: white;
+            border-radius: 20px;
+            box-shadow: 5px 2px 2px 3px rgb(216, 206, 206);
+            width: 90%;
+            margin-left: 1em;
+            margin-right: 1em;
+        }
+        .div22{
+            margin: 1em;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .movecolor1{
+            padding-bottom: 20px;
+        }
+        #studio{
+            width: 97%;
+        }
+
+        /* SECTION SEVEN STARTS */
+
+        .section7{
+            background-color: rgb(206, 231, 229);
+            height: auto;
+        }
+        .div24{
+            margin: 1em;
+            padding-top: 20px;
+        }
+        .div26{
+            text-align: center;
+        }
+        .div27{
+            text-align: center;
+            padding-top: 20px;
+        }
+        .div29{
+            margin: 1em;
+        }
+        .div30{
+            padding-top: 20px;
+        }
+        .buttonget7{
+            padding-bottom: 30px;
+        }
+        #movebutton7{
+            padding-bottom: 30px;
+            margin-left: 0.5em;
+        }
+        #movebutton9{
+            padding-bottom: 30px;
+            margin-left: 0.5em;
+        }
+        #studentspic{
+            width: 97%;
+        }
+        #listspan1{
+            padding-left: 20px;
+        }
+        #smile{
+            width: 99%;
+            height: auto;
+        }
+        #para71{
+            padding-top: 10px;
+        }
+
+        /* SECTION EIGHT STARTS */
+
+        .section8{
+            background-color: rgb(235, 228, 228);
+            height: 300px;
+        }
+        .div32{
+            text-align: center;
+            padding: 20px;
+            padding-top: 50px;
+        }
+        .div32 h5{
+            font-size: medium;
+        }
+        .div33{
+            background-color: #007bff;
+            height: 200px;
+        }
+        .movecolor{
+            padding-top: 50px;
+        }
+        .btn.btn-light.btn-md{
+           width: 80%;
+           height: 60px;
+           font-weight: 600;
+        }
+        
+        /* SECTION NINE STARTS */
+        .section9{
+            background-color: rgb(238, 220, 229);
+        }
+        .div35{
+            text-align: center;
+            padding-top: 30px;
+        }
+        .div35 h3{
+            width: 90%;
+        }
+        .div35 p{
+            width: 50%;
+            margin: auto;
+            padding-bottom: 30px;
+        }
+        .div36{
+            margin: 1em;
+        }
+        .div37{
+            margin: 1em;
+        }
+        #list9{
+            padding-left: 15px;
+        }
+        #reg9{
+            margin: 1em;
+        }
+
+        /* SECTION TEN STARTS */
+
+        .section10{
+            background-color: #007bff;
+            height: auto;
+        }
+        .div40{
+            margin: 1em;
+            width: 80%;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            color: gray;
+            font-weight: 400;
+        }
+        .div41{
+            margin: 1em;
+            width: 80%;
+            padding-top: 20px;
+            color: white;
+        }
+        .div41 h5{
+            font-weight: lighter;
+            font-size: x-large;
+        }
+        .div43{
+            background-color: #e63131;
+            margin-left: 1em;
+            margin-right: 1em;
+            height: auto;
+        }
+        .div44{
+            background-color: whitesmoke;
+            margin-left: 1em;
+            margin-right: 1em;
+        }
+        .buttonsec10{
+            padding-bottom: 50px;
+        }
+
+        #movewhite{
+            padding-top: 50px;
+        }
+        #movered{
+            padding-bottom: 50px;
+        }
+        #amount{
+            padding-left: 40px;
+        }
+        #list10{
+            padding-left: 20px;
+            font-weight: lighter;
+        }
+        #buttonsec10{
+            margin-left: 30px;
+            height: 50px;
+            width: 80%;
+            margin-bottom: 20px;
+        }
+
+        /* SECTION ELEVEN STARTS */
+
+        .section11{
+            background-color: rgb(2, 2, 15);
+            height: 500px;
+        }
+        .div46{
+            display: flex;
+        }
+        .div47{
+            padding-top: 30px;
+            text-align: center;
+        }
+        .div48{
+            text-align: center;
+        }
+        .div49{
+            text-align: center;
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+        .div49 h5{
+            visibility: hidden;
+        }
+        .div50{
+            padding-right: 30px;
+        }
+        #eyea{
+            border-radius: 0.3em;
+            height: 50px;
+            width: 95%;
+            border: 0px solid;
+        }
+        #ogunlesi{
+            /* text-align: center; */
+        }
+}
+
+
+
+
+/* MEDIA 480 STARTS HERE */
+
+@media (min-width:480px)  { /* smartphones, Android phones, landscape iPhone */ 
+
+    body{
+        background-color: rgb(23, 87, 148);
+    }
+    .all{
+        padding-left: 20px
+    }
+    .java16{
+        width: ;
+    }
+    #palmgroove{
+        padding-left: 170px;
+    }
+    #date{
+        padding-left: 190px;
+    }
+    #weeks{
+        padding-left: 225px;
+    }
+
+    /* SECTION TWO STARTS */
+
+    #joseph{
+        border-radius: 100px;
+        margin-bottom: 20px;
+    }
+    #peterlomo1{
+        border-radius: 100px;
+        margin-bottom: 20px;
+    }
+    #rilwan{
+        border-radius: 100px;
+        margin-bottom: 20px;
+    }
+
+    /* SECTION FOUR STARTS */
+    .div12{
+        width: 90%;
+    }
+
+    /* SECTION SEVEN STARTS */
+    #movebutton7{
+        padding-bottom: 30px;
+        margin-left: 0.5em;
+    }
+
+    /* SECTION NINE STARTS */
+    #movebutton9{
+        padding-bottom: 30px;
+        margin-left: 0.5em;
+    }
+
+    /* SECTION EIGHT STARTS */
+
+    .btn.btn-light.btn-md{
+        width: 50%;
+     }
+
+
+
+
+
+
+
+@media (min-width:600px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ 
+    body{
+        background-color: rgb(5, 151, 170);
+    }
+    /* HEADER STARTS HERE */
+    .all{
+        padding-left: 40px;
+    }
+    /* FIRST SECTION STARTS  */
+    .java16{
+        padding-left: 45px;
+    }
+    #palmgroove{
+        padding-left: 240px;
+    }
+    #date{
+        padding-left: 260px;
+    }
+    #weeks{
+        padding-left: 295px;
+    }
+    /* SECTION TWO STARTS */
+    #joseph{
+        /* margin-left: 230px; */
+    }
+    #peterlomo{
+        /* margin-left: 230px; */
+    }
+    #rilwan{
+        /* margin-left: 230px; */
+    }
+
+    /* THIRD SECTION STARTS */
+    .thirdsection{
+        background-color: wheat;
+        height: auto;
+    }
+
+    /* FIFTH SECTION STARTS */
+
+    .div17{
+        display: flex;
+        justify-content: space-between;
+    }
+    #funda{
+        width: 90%;
+        margin-right: 1.5em;
+    }
+    #frontb{
+        width: 99%;
+    }
+
+    /* SECTION SEVEN STARTS */
+
+    /* SECTION NINE STARTS */
+    .div38{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* SECTION TEN STARTS */
+
+    /* .div42{
+        display: flex;
+        justify-content: space-between;
+    } */
+}
+
+/* MEDIA 801 STARTS HERE */
+
+@media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+    body{
+        background-color: rgb(193, 197, 171);
+    }
+    .leftside{
+        display: flex;
+    }
+    .div1{
+        display: flex;
+        justify-content: space-between;
+    }
+    .div2{
+        font-size: 1em;
+    }
+    .div3{
+        visibility: visible;
+    }
+    .all{
+        display: flex;
+    }
+    /* FIRST SECTION STARTS */
+    .div5{
+        display: flex;
+    }   
+
+    /* SECOND SECTION STARTS HERE */
+    .java16{
+        padding-top: 30px;
+    }
+    /* FORM STARTS HERE */
+    .movetopform{
+        padding-top: 30px;
+    }
+    #palmgroove{
+        padding-left: 120px;
+    }
+    #date{
+        padding-left: 140px;
+    }
+    #weeks{
+        padding-left: 175px;
+    }
+    .firstlast{
+        display: flex;
+        justify-content: space-between;
+    }
+    #firstname{
+        margin-right: 20px;
+        width: 130px;
+    }
+    #lastname{
+        width: 130px;
+    }
+
+    /* SECOND SECTION STARTS */
+    .secondsection{
+        background-color: cadetblue;
+        height: auto;
+    }
+    .avatar{
+        display: grid;
+    }
+    #ridwanp{
+        padding-top: 8px;
+    }
+    #para4{
+        padding-top: 20px;
+    }
+
+    /* THRID SECTION STARTS */
+    .thirdsection{
+        background-color: wheat;
+        height: auto;
+    }
+    .cbs{
+        display: flex;
+        justify-content: space-evenly;
+        padding-top: 50px;
+    }
+
+    /* FOURTH SECTION STARTS */
+        #button4{
+            width: 40%;
+        }
+
+        /* FIFTH SECTION STARTS */
+        #button5{
+            width: 40%;
+        }
+
+        /* SECTION SEVEN STARTS */
+        #buttonsmile{
+            width: 35%;
+        }
+        #para71{
+            padding-top: 20px;
+        }
+
+        /* SECTION EIGHT STARTS */
+        /* #divtext32{
+            font-size: xx-large;
+        } */
+
+        /* NINTH SECTION STARTS */
+        #button9{
+            width: 35%;
+        }
+
+    
+    /* TENTH SECTION STARTS */
+    .div41{
+        margin-left: 80px;
+        padding-right: 100px;
+    }
+    .div42{
+        display: flex;
+        justify-content: space-between;
+    }
+    #movewhite{
+        padding-bottom: 50px;
+    }
+    #movered{
+        padding-top: 50px;
+    }
+
+}
+
+
+
+/* MEDIA 1025 STARTS HERE */
+
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ 
+
+    body{
+        background-color: indianred;
+    }
+    #jfs{
+        width: 90%;
+    }
+    #explore{
+        width: 90%;
+    }
+    .java16{
+        padding-top: 60px;
+    }
+    .movetopform{
+        padding-right: 80px;
+        padding-bottom: 80px;
+        padding-top: 60px;
+    }
+    .textnform{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    /* SECOND SECTION STARTS */
+    .jospet{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .jos{
+        text-align: center;
+    }
+    .peterlomo{
+        text-align: center;
+    }
+    .rilwanlomo{
+        align-items: center;
+    }
+    #ridwanp{
+        /* margin-left: 2em;
+        margin-right: 2em; */
+    }
+
+    /* THIRD SECTION STARTS */
+
+    .section3{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* FOURTH SECTION STARTS */
+    .webutton{
+        display: flex;
+        justify-content: space-between;
+    }
+    #pbutton4{
+        width: 99%;
+    }
+    #group4{
+        height: 50%;
+        margin-left: 1.5em;
+        padding-top: 10px;
+    }
+
+    /* SECTION SIX STARTS */
+    .div20{
+        display: flex;
+        padding-left: 50px;
+    }
+    .movecolor1{
+        width: 80%;
+        position: relative;
+        right: 150px;
+        /* height: 20%; */
+    }
+    #studio{
+        height: 99%;
+    }
+
+    /* SECTION SEVEN STARTS */
+    .div24{
+        /* display: flex; */
+    }
+    .div26{
+        padding-left: 400px;
+        padding-top: 60px;
+    }
+    .studpara{
+        display: flex;
+    }
+    #studentspic{
+        height: 90%;
+        width: 45%;
+    }
+    #para71{
+        margin-right: 52px;
+        margin-left: 30px;
+        width: 90%;
+    }
+
+    #careertext{
+        width: 75%;
+        padding-left: 200px;
+    }
+    #buttonsmile{
+        width: 45%;
+    }
+    .div28{
+        display: flex;
+    }
+    .div30{
+        width: 90%;
+        margin-left: 1.5em;
+    }
+
+    /* SECTION EIGHT STARTS */
+    .div32{
+        display: flex;
+    }
+    #div32text{
+        padding-left: 50px;
+        text-align: left;
+    }
+    #div32button{
+        width: 50%;
+        padding-left: 80px;
+    }
+
+}
+
+
+
+
+/* MEDIA 1281 STARTS HERE */
+
+@media (min-width:1281px) { /* hi-res laptops and desktops */ 
+        
+    body{
+        background-color: azure;
+    }
+    .div1{
+        height: 100px;
+        width: 1265px;
+        /* width: 1518px; */
+    }
+    .div2{
+        font-size: 15px;
+    }
+    /* .webutton{
+        background-color: indianred;
+    } */
+
+
+
+    /* SECTION SIX STARTS */
+    /* .div20{
+        /* display: flex; */
+        background-color: rgb(118, 79, 168);
+    } */
+}
