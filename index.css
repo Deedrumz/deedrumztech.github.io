@@ -1180,6 +1180,7 @@
     }
     .div3{
         visibility: visible;
+        padding-right: 20px;
     }
     .all{
         display: flex;
@@ -1323,6 +1324,9 @@
 
     body{
         /* background-color: indianred; */
+    }
+    .div3{
+        padding-right: 100px;
     }
     #jfs{
         width: 90%;
@@ -1469,8 +1473,9 @@
         /* background-color: azure; */
     }
     .div1{
-        height: 100px;
-        width: 1265px;
+        height: 80px;
+        width: auto;
+        padding-top: 20px;
         /* width: 1518px; */
     }
     .div2{
